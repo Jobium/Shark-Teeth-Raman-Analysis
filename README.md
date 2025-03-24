@@ -1,9 +1,9 @@
 # Shark-Teeth-Raman-Analysis
 Jupyter Notebook for processing and analysis of Raman spectra of shark/ray teeth.
 
-The Notebook imports Raman spectra, does automatic baseline subtraction, background artefact subtraction, peak detection, peak fitting, and figure generation. It then saves processed data to a standardised data file format.
+The SharkTeeth_Raman.ipynb notebook imports Raman spectra, does automatic baseline subtraction, background artefact subtraction, peak detection, peak fitting, and figure generation. It then saves processed data to a standardised data file format. The OSTRI_functions.py provides the underlying system of standardised python classes and functions (developed by Dr Joseph Razzell Hollis) for handling Raman & FTIR spectra in Python. 
 
-Written by Dr Joseph Razzell Hollis on 2025-03-10. This Notebook uses OSTRI v0.1.2-alpha, a system of standardised python classes and functions developed by Dr Joseph Razzell Hollis for handling Raman & FTIR spectra in Python. See www.github.com/Jobium/OSTRI/ for updates and documentation.
+Written by Dr Joseph Razzell Hollis on 2025-03-10. OSTRI functions derived from version v0.1.2-alpha, see www.github.com/Jobium/OSTRI/ for updates and documentation.
 
 Any updates to this Notebook will be made available online at www.github.com/Jobium/Shark-Teeth-Raman-Analysis/
 
